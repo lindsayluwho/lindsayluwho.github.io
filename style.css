@@ -1,0 +1,74 @@
+#nav{
+	opacity: 0%;
+}
+
+.body-div{
+	height:500px; 
+	width: 100%; 
+	flex-flow: column wrap; 
+	justify-content: center; 
+	align-items: center;
+	text-align: center;
+	text-shadow: 1px 1px 1px grey;
+}
+
+.button-collapse{
+	float:left; 
+	color: white;
+	text-shadow: 1px 1px 1px grey;
+	position: fixed;
+}
+
+.activator:hover{
+	cursor: pointer;
+}
+
+.parallax-container#header{
+  height: 820px;
+}
+
+.dropdown-content li{
+	padding: 15px;
+	text-align: center;
+}
+
+
+#logo{
+	font-size: 8em;
+	font-family: 'Lobster', cursive;
+
+}
+
+#sub-logo{
+	font-weight: 300;
+}
+
+#about{
+	color: grey;
+	font-weight: 300;
+	font-size: 1.5em;
+}
+
+.parallax-container#portfolio-header{
+	height: 200px;
+	font-weight: 400;
+	text-shadow: 1px 1px 1px grey;
+}
+
+#portfolio{
+	padding: 50px;
+	box-sizing: border-box;
+}
+
+#email{
+	font-weight: 300;
+	font-size: 1.5em;
+}
+
+#dropdown1{
+	margin: 10px;
+	padding: 10px;
+	min-width: 200px;
+	height: 350px;
+	text-align: center;
+}
