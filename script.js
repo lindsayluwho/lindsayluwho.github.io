@@ -3,7 +3,7 @@ $(document).ready(function() {
     //parallax template
     $('.parallax').parallax();
 
-$('.dropdown-button').on('click', dropdown{
+$('.dropdown-button').on('click', dropdown(){
       inDuration: 300,
       outDuration: 225,
       constrainWidth: false, // Does not change width of dropdown to that of the activator
